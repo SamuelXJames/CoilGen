@@ -1,2 +1,2 @@
 # CoilGen
-### A framework to automatically generate coils for an environment domain
+### A Framework to Automatically Generate Coils for an Environment Domain
